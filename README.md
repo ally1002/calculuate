@@ -60,3 +60,7 @@ The `resolve_expression` function includes basic error handling:
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
+
+## License
+
+This project is licensed under the Unlicense. For more information, please refer to the [LICENSE](LICENSE) file.
